@@ -46,7 +46,7 @@ Enter a number of pages when asked. Start small (like 5) to test, since each pag
 
 ```
 .
-├── toppratedmovies.py   # main script
+├── topratedmovies.py   # main script
 ├── requirements.txt     # pandas, requests, python-dotenv
 ├── sample_output.csv    # 50-row example output
 ├── .gitignore           # ignores .env and toprated.csv
